@@ -1,8 +1,10 @@
 # openredirect-parameters
 Basic Open Redirect Parameters
 
-/{payload}
+asd
+asd
 
+/{payload}
 ?next={payload}
 ?url={payload}
 ?target={payload}
