@@ -2,6 +2,7 @@
 Basic Open Redirect Parameters
 
 /{payload}
+
 ?next={payload}
 ?url={payload}
 ?target={payload}
