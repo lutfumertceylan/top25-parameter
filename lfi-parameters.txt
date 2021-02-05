@@ -1,4 +1,4 @@
-Top 25 Local File Inclusion (LFI) Parameters  for @trbughunters
+Top 25 Local File Inclusion (LFI) Parameters for @trbughunters
 +++++++++++++++++
 ?cat={payload}
 ?dir={payload]
