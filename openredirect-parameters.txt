@@ -1,3 +1,5 @@
+Top 25 Open Redirect Parameters for @lutfumertceylan
++++++++++++++++++
 /{payload}
 ?next={payload}
 ?url={payload}
@@ -23,3 +25,4 @@
 ?checkout_url={payload}
 ?continue={payload}
 ?return_path={payload}
++++++++++++++++++
