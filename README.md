@@ -2,7 +2,7 @@
 
 Top 25 Cross-Site Scripting (XSS) Parameters for @trbughunters @openbugbounty
 
-<img height="800" width="800" src="https://pbs.twimg.com/media/EbhJ6veWkAE-K_y?format=jpg&name=medium">
+<img src="https://pbs.twimg.com/media/EbhJ6veWkAE-K_y?format=jpg&name=medium">
 
 Top 25 Server-Side Request Forgery (SSRF) Parameters for @trbughunters
 
