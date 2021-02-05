@@ -1,4 +1,4 @@
-# Top 25 Vulnerability Parameters
+# Top 25 Vulnerability Parameters based on frequency
 
 Top 25 Cross-Site Scripting (XSS) Parameters for @trbughunters @openbugbounty
 
