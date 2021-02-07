@@ -5,7 +5,7 @@ Top 25 Server-Side Request Forgery (SSRF) Parameters for @trbughunters
 ?uri={target}
 ?path={target}
 ?continue={target}
-6.?url={target}
+?url={target}
 ?window={target}
 ?next={target}
 ?data={target}
