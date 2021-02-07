@@ -1,0 +1,29 @@
+{
+    "flags": "-lmcE",
+     "patterns": [
+
+        "cmd=",
+        "exec=",
+        "command=",
+        "execute=",
+        "ping=",
+        "query=",
+        "jump=",
+        "code",
+        "reg=",
+        "do=",
+        "func=",
+        "arg=",
+        "option=",
+        "load=",
+        "process=",
+        "step=",
+        "read=",
+        "feature=",
+        "exe=",
+        "module=",
+        "payload=",
+        "run=",
+        "print"
+]
+}
