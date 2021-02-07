@@ -1,0 +1,31 @@
+{
+    "flags": "-lmcE",
+     "patterns": [
+
+         "id=",
+        "page=",
+        "report=",
+        "dir=",
+        "search=",
+        "category=",
+        "file=",
+        "class",
+        "url=",
+        "news",
+        "item=",
+        "menu=",
+        "lang=",
+        "name=",
+        "ref=",
+        "title=",
+        "view=",
+        "topic=",
+        "thread=",
+        "type=",
+        "date=",
+        "form=",
+        "main=",
+        "nav=",
+        "region=",
+]
+}
