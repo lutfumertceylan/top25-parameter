@@ -24,6 +24,6 @@
         "module=",
         "payload=",
         "run=",
-        "print"
+        "print="
 ]
 }
