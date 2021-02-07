@@ -2,7 +2,7 @@
     "flags": "-lmcE",
      "patterns": [
 
-         "id=",
+        "id=",
         "page=",
         "report=",
         "dir=",
@@ -11,7 +11,7 @@
         "file=",
         "class",
         "url=",
-        "news",
+        "news=",
         "item=",
         "menu=",
         "lang=",
