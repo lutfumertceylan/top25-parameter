@@ -1,0 +1,27 @@
+{
+    "flags": "-lmcE",
+     "patterns": [
+
+        "next=",
+        "url=",
+        "target=",
+        "rurl=",
+        "dest=",
+        "destination=",
+        "redir=",
+        "redirect_uri",
+        "redirect_url=",
+        "redirect=",
+        "out=",
+        "view=",
+        "to=",
+        "image_url=",
+        "go=",
+        "return=",
+        "returnTo=",
+        "return_to=",
+        "checkout_url=",
+        "continue=",
+        "return_path="
+]
+}
