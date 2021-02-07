@@ -3,7 +3,7 @@ Top 25 Remote Code Execution (RCE) Parameters [GET based] for @trbughunters
 ?cmd=
 ?exec=
 ?command=
-?execute
+?execute=
 ?ping=
 ?query=
 ?jump=
