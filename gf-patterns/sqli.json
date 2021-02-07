@@ -1,5 +1,5 @@
 {
-    "flags": "-lmcE",
+    "flags": "-iE",
      "patterns": [
 
         "id=",
