@@ -24,8 +24,8 @@
         "host=",
         "port=",
         "to=",
-        "out",
-        "view",
-        "dir"
+        "out=",
+        "view=",
+        "dir="
 ]
 }
