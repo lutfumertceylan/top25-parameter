@@ -1,5 +1,5 @@
 Top 25 Cross-Site Scripting (XSS) Parameters for @trbughunters
-+++++++++++++++++
+
 ?q={payload}
 ?s={payload}
 ?search={payload}
@@ -24,5 +24,4 @@ Top 25 Cross-Site Scripting (XSS) Parameters for @trbughunters
 ?key={payload}
 ?l={payload}
 ?begindate={payload}
-?enddate={payload};
-+++++++++++++++++
+?enddate={payload}
