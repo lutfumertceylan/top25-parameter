@@ -1,5 +1,5 @@
 Top 25 SQL Injection Parameters for @trbughunters
-+++++++++++++++++
+
 ?id=
 ?page=
 ?dir=
@@ -25,4 +25,3 @@ Top 25 SQL Injection Parameters for @trbughunters
 ?main=
 ?nav=
 ?region=
-+++++++++++++++++
