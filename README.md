@@ -27,15 +27,15 @@ This repo contains common parameters of the following vulnerabilities:
 </p>
 
 ## ToC
-<p>
-- [Cross-Site Scripting](https://github.com/lutfumertceylan/top25-parameter#top-25-cross-site-scripting-xss-parameters-for-trbughunters-openbugbounty)
-- [Server-Side Request Forgery](https://github.com/lutfumertceylan/top25-parameter#top-25-server-side-request-forgery-ssrf-parameters-for-trbughunters)
-- [Local File Inclusion](https://github.com/lutfumertceylan/top25-parameter#top-25-local-file-inclusion-lfi-parameters-for-trbughunters)
-- [SQL Injection](https://github.com/lutfumertceylan/top25-parameter#top-25-sql-injection-parameters-for-trbughunters)
-- [Remote Code Execution](https://github.com/lutfumertceylan/top25-parameter#top-25-remote-code-execution-rce-parameters-get-based-for-trbughunters)
-- [Open Redirect](https://github.com/lutfumertceylan/top25-parameter#top-25-open-redirect-parameters-for-lutfumertceylan)
-</p>
-  
+- [Cross-Site Scripting](#top-25-cross-site-scripting-xss-parameters-for-trbughunters-openbugbounty)
+- [Server-Side Request Forgery](#top-25-server-side-request-forgery-ssrf-parameters-for-trbughunters)
+- [Local File Inclusion](#top-25-local-file-inclusion-lfi-parameters-for-trbughunters)
+- [SQL Injection](#top-25-sql-injection-parameters-for-trbughunters)
+- [Remote Code Execution](#top-25-remote-code-execution-rce-parameters-get-based-for-trbughunters)
+- [Open Redirect](#top-25-open-redirect-parameters-for-lutfumertceylan)
+
+---
+
 ### Top 25 **Cross-Site Scripting (XSS)** Parameters for @trbughunters @openbugbounty
 
 <img src="https://pbs.twimg.com/media/EbhJ6veWkAE-K_y?format=jpg&name=medium">
