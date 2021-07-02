@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://user-images.githubusercontent.com/13212227/120111054-49ffc780-c1ab-11eb-974e-e198d53ddb48.png" alt="" width="300px;"></a>
+  <a href=""><img src="" alt="" width="300px;"></a>
 </h1>
 <h4 align="center">Finder Of XSS, and Dal(달) is the Korean pronunciation of moon.</h4>
 <p align="center">
