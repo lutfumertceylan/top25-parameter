@@ -6,7 +6,6 @@
 <p align="center">
   <a href=""><img src="https://img.shields.io/github/v/release/lutfumertceylan/top25-parameter?style=flat"></a>
   <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-  <a href=""><img src="https://api.codacy.com/project/badge/Grade/3b9a9074fe294a1eaafa0445d40c3326)"></a>
   <a href="https://twitter.com/intent/follow?screen_name=lutfumertceylan"><img src="https://img.shields.io/twitter/follow/lutfumertceylan?style=flat&logo=twitter"></a>
   <a href="https://github.com/lutfumertceylan"><img src="https://img.shields.io/github/stars/lutfumertceylan?style=flat&logo=github"></a></a>
 </p>
@@ -17,12 +16,12 @@ For basic researches, top 25 vulnerable parameters based on frequency of use wit
 This repo contains common parameters of the following vulnerabilities:
 **ToC**
 ```
-- [Cross-Site Scripting (XSS)]()
-- [Server-Side Request Forgery (SSRF)]()
-- [Local File Inclusion (LFI)]()
-- [SQL Injection (SQLi)]()
-- [Remote Code Execution (RCE) -for GET and POST methods]()
-- [Open Redirect]()
+- [Cross-Site Scripting (XSS)](https://github.com/lutfumertceylan/top25-parameter#top-25-cross-site-scripting-xss-parameters-for-trbughunters-openbugbounty)
+- [Server-Side Request Forgery (SSRF)](https://github.com/lutfumertceylan/top25-parameter#top-25-server-side-request-forgery-ssrf-parameters-for-trbughunters)
+- [Local File Inclusion (LFI)](https://github.com/lutfumertceylan/top25-parameter#top-25-local-file-inclusion-lfi-parameters-for-trbughunters)
+- [SQL Injection (SQLi)](https://github.com/lutfumertceylan/top25-parameter#top-25-sql-injection-parameters-for-trbughunters)
+- [Remote Code Execution (RCE) -for GET and POST methods](https://github.com/lutfumertceylan/top25-parameter#top-25-remote-code-execution-rce-parameters-get-based-for-trbughunters)
+- [Open Redirect](https://github.com/lutfumertceylan/top25-parameter#top-25-open-redirect-parameters-for-lutfumertceylan)
 ```
 </p>
 
