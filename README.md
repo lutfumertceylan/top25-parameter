@@ -28,6 +28,8 @@ This repo contains common parameters of the following vulnerabilities:
 
 ### Top 25 **Cross-Site Scripting (XSS)** Parameters for @trbughunters @openbugbounty
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b9a9074fe294a1eaafa0445d40c3326)](https://app.codacy.com/gh/lutfumertceylan/top25-parameter?utm_source=github.com&utm_medium=referral&utm_content=lutfumertceylan/top25-parameter&utm_campaign=Badge_Grade_Settings)
+
 <img src="https://pbs.twimg.com/media/EbhJ6veWkAE-K_y?format=jpg&name=medium">
 
 ### Top 25 **Server-Side Request Forgery (SSRF)** Parameters for @trbughunters
