@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://repository-images.githubusercontent.com/259446769/4f38a380-dba9-11eb-84f1-30e2ba3c777d" alt="" width="900px;"></a>
+  <a href=""><img src="https://repository-images.githubusercontent.com/259446769/4f38a380-dba9-11eb-84f1-30e2ba3c777d" alt=""></a>
 </h1>
 <h4 align="center">For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon</h4>
 <p align="center">
