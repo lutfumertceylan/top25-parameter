@@ -10,7 +10,7 @@
   <a href="https://github.com/lutfumertceylan"><img src="https://img.shields.io/github/stars/lutfumertceylan?style=flat&logo=github"></a></a>
 </p>
 
--------------------
+---
 
 <p>
 For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely, they were prepared by the TR Bug Hunters Community, which I founded, and myself.
