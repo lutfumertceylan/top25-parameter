@@ -2,7 +2,7 @@
   <br>
   <a href=""><img src="" alt="" width="300px;"></a>
 </h1>
-<h4 align="center">Finder Of XSS, and Dal(달) is the Korean pronunciation of moon.</h4>
+<h4 align="center">For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙</h4>
 <p align="center">
   <a href=""><img src="https://img.shields.io/github/v/release/lutfumertceylan/top25-parameter?style=flat"></a>
   <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
