@@ -2,7 +2,7 @@
   <br>
   <a href=""><img src="" alt="" width="300px;"></a>
 </h1>
-<h4 align="center">For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙</h4>
+<h4 align="center">For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon</h4>
 <p align="center">
   <a href=""><img src="https://img.shields.io/github/v/release/lutfumertceylan/top25-parameter?style=flat"></a>
   <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
@@ -12,7 +12,7 @@
 
 ---
 
-## What is top25-parameter?
+## What is top25-parameter 🧙⚔️
 <p>
 For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely, they were prepared by the TR Bug Hunters Community, which I founded, and myself.
 
