@@ -10,21 +10,32 @@
   <a href="https://github.com/lutfumertceylan"><img src="https://img.shields.io/github/stars/lutfumertceylan?style=flat&logo=github"></a></a>
 </p>
 
+-------------------
+
 <p>
 For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely, they were prepared by the TR Bug Hunters Community, which I founded, and myself.
 
 This repo contains common parameters of the following vulnerabilities:
-**ToC**
 ```
-- [Cross-Site Scripting (XSS)](https://github.com/lutfumertceylan/top25-parameter#top-25-cross-site-scripting-xss-parameters-for-trbughunters-openbugbounty)
-- [Server-Side Request Forgery (SSRF)](https://github.com/lutfumertceylan/top25-parameter#top-25-server-side-request-forgery-ssrf-parameters-for-trbughunters)
-- [Local File Inclusion (LFI)](https://github.com/lutfumertceylan/top25-parameter#top-25-local-file-inclusion-lfi-parameters-for-trbughunters)
-- [SQL Injection (SQLi)](https://github.com/lutfumertceylan/top25-parameter#top-25-sql-injection-parameters-for-trbughunters)
-- [Remote Code Execution (RCE) -for GET and POST methods](https://github.com/lutfumertceylan/top25-parameter#top-25-remote-code-execution-rce-parameters-get-based-for-trbughunters)
-- [Open Redirect](https://github.com/lutfumertceylan/top25-parameter#top-25-open-redirect-parameters-for-lutfumertceylan)
+- Cross-Site Scripting (XSS)
+- Server-Side Request Forgery (SSRF)
+- Local File Inclusion (LFI)
+- SQL Injection (SQLi)]
+- Remote Code Execution (RCE) - [for GET and POST methods]
+- Open Redirect
 ```
 </p>
 
+## ToC
+<p>
+- [Cross-Site Scripting](https://github.com/lutfumertceylan/top25-parameter#top-25-cross-site-scripting-xss-parameters-for-trbughunters-openbugbounty)
+- [Server-Side Request Forgery](https://github.com/lutfumertceylan/top25-parameter#top-25-server-side-request-forgery-ssrf-parameters-for-trbughunters)
+- [Local File Inclusion](https://github.com/lutfumertceylan/top25-parameter#top-25-local-file-inclusion-lfi-parameters-for-trbughunters)
+- [SQL Injection](https://github.com/lutfumertceylan/top25-parameter#top-25-sql-injection-parameters-for-trbughunters)
+- [Remote Code Execution](https://github.com/lutfumertceylan/top25-parameter#top-25-remote-code-execution-rce-parameters-get-based-for-trbughunters)
+- [Open Redirect](https://github.com/lutfumertceylan/top25-parameter#top-25-open-redirect-parameters-for-lutfumertceylan)
+</p>
+  
 ### Top 25 **Cross-Site Scripting (XSS)** Parameters for @trbughunters @openbugbounty
 
 <img src="https://pbs.twimg.com/media/EbhJ6veWkAE-K_y?format=jpg&name=medium">
