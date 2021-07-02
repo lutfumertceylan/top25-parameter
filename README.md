@@ -6,7 +6,7 @@
 <p align="center">
   <a href=""><img src="https://img.shields.io/github/v/release/lutfumertceylan/top25-parameter?style=flat"></a>
   <a href=""><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-  <a href=""><img src="https://api.codacy.com/project/badge/Grade/X9SdcUnl4tb97EXiHXfN"></a>
+  <a href=""><img src="https://api.codacy.com/project/badge/Grade/3b9a9074fe294a1eaafa0445d40c3326)"></a>
   <a href="https://twitter.com/intent/follow?screen_name=lutfumertceylan"><img src="https://img.shields.io/twitter/follow/lutfumertceylan?style=flat&logo=twitter"></a>
   <a href="https://github.com/lutfumertceylan"><img src="https://img.shields.io/github/stars/lutfumertceylan?style=flat&logo=github"></a></a>
 </p>
@@ -27,8 +27,6 @@ This repo contains common parameters of the following vulnerabilities:
 </p>
 
 ### Top 25 **Cross-Site Scripting (XSS)** Parameters for @trbughunters @openbugbounty
-
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b9a9074fe294a1eaafa0445d40c3326)](https://app.codacy.com/gh/lutfumertceylan/top25-parameter?utm_source=github.com&utm_medium=referral&utm_content=lutfumertceylan/top25-parameter&utm_campaign=Badge_Grade_Settings)
 
 <img src="https://pbs.twimg.com/media/EbhJ6veWkAE-K_y?format=jpg&name=medium">
 
