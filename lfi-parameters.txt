@@ -1,7 +1,7 @@
 Top 25 Local File Inclusion (LFI) Parameters for @trbughunters
 
 ?cat={payload}
-?dir={payload]
+?dir={payload}
 ?action={payload}
 ?board={payload}
 ?date={payload}
@@ -12,7 +12,7 @@ Top 25 Local File Inclusion (LFI) Parameters for @trbughunters
 ?folder={payload}
 ?prefix={payload}
 ?include={payload}
-?page={payload]
+?page={payload}
 ?inc={payload}
 ?locate={payload}
 ?show={payload}
