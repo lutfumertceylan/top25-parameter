@@ -1,4 +1,4 @@
-Top 25 Cross-Site Scripting (XSS) Parameters for @trbughunters
+# Top 25 Cross-Site Scripting (XSS) Parameters for @trbughunters
 
 ?q={payload}
 ?s={payload}
