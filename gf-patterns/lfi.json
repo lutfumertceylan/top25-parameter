@@ -1,10 +1,9 @@
 {
     "flags": "-iE",
-     "patterns": [
-
+    "patterns": [
         "cat=",
         "dir=",
-        "action="
+        "action=",
         "board=",
         "date=",
         "detail=",
@@ -27,5 +26,5 @@
         "layout=",
         "mod=",
         "conf="
-]
+    ]
 }

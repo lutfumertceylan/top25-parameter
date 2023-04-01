@@ -1,7 +1,6 @@
 {
     "flags": "-iE",
-     "patterns": [
-
+    "patterns": [
         "q=",
         "s=",
         "search=",
@@ -27,5 +26,5 @@
         "l=",
         "begindate=",
         "enddate="
-]
+    ]
 }
