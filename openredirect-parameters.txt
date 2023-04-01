@@ -1,4 +1,4 @@
-Top 25 Open Redirect Parameters for @lutfumertceylan
+# Top 25 Open Redirect Parameters for @lutfumertceylan
 
 ?next={payload}
 ?url={payload}

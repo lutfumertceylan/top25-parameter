@@ -1,4 +1,4 @@
-Top 25 SQL Injection Parameters for @trbughunters
+# Top 25 SQL Injection Parameters for @trbughunters
 
 ?id=
 ?page=
