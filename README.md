@@ -14,8 +14,10 @@
 
 ## What is top25-parameter 🧙⚔️
 <p>
-For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely, they were prepared by the TR Bug Hunters Community, which I founded, and myself.
+For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely.
 
+Data sources include numerous articles, blogs, and other resources obtained via OSINT and other open-source projects including work similar to that of Jason Haddix and HUNT.
+  
 This repo contains common parameters of the following vulnerabilities:
 ```
 - Cross-Site Scripting (XSS)
