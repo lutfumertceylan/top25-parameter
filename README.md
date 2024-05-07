@@ -16,7 +16,7 @@
 <p>
 For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely.
 
-Data sources include numerous articles, blogs, and other resources obtained via OSINT and other open-source projects including work similar to that of Jason Haddix and HUNT.
+<i>Data sources include numerous articles, blogs, and other resources obtained via OSINT and other open-source projects including work similar to that of Jason Haddix and HUNT.</i>
   
 This repo contains common parameters of the following vulnerabilities:
 ```
