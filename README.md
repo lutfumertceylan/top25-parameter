@@ -13,7 +13,7 @@
 
 ---
 
-## What is top25-parameter 🧙⚔️
+## What is the OWASP Top 25 Parameters 🧙⚔️
 <p>
 For basic researches, top 25 vulnerable parameters based on frequency of use with reference to various articles. These parameters can be used for automation tools or manual recon. Although the prevalence percentages of these parameters cannot be proven precisely.
 
@@ -40,26 +40,37 @@ This repo contains common parameters of the following vulnerabilities:
 
 ---
 
-### Top 25 **Cross-Site Scripting (XSS)** Parameters for @trbughunters @openbugbounty
+### Top 25 **Cross-Site Scripting (XSS)** Parameters
 
-<img src="https://pbs.twimg.com/media/EbhJ6veWkAE-K_y?format=jpg&name=medium">
+<img src="https://raw.githubusercontent.com/OWASP/www-project-top-25-parameters/main/assets/images/xss-owasp_top25pic.png">
 
-### Top 25 **Server-Side Request Forgery (SSRF)** Parameters for @trbughunters
+### Top 25 **Server-Side Request Forgery (SSRF)** Parameters
 
-<img src="https://pbs.twimg.com/media/EbzO_2BXgAA5rDb?format=jpg&name=medium">
+<img src="https://raw.githubusercontent.com/OWASP/www-project-top-25-parameters/main/assets/images/ssrf-owasp_top25pic.png">
 
-### Top 25 **Local File Inclusion (LFI)** Parameters for @trbughunters
+### Top 25 **Local File Inclusion (LFI)** Parameters
 
-<img src="https://pbs.twimg.com/media/EcKmRkIXQAIuRNX?format=jpg&name=medium">
+<img src="https://raw.githubusercontent.com/OWASP/www-project-top-25-parameters/main/assets/images/lfi-owasp_top25pic.png">
 
-### Top 25 **SQL Injection** Parameters for @trbughunters
+### Top 25 **SQL Injection** Parameters
 
-<img src="https://pbs.twimg.com/media/Eb9UUDPU4AAxJR1?format=jpg&name=medium">
+<img src="https://raw.githubusercontent.com/OWASP/www-project-top-25-parameters/main/assets/images/sql-owasp_top25pic.png">
 
-### Top 25 **Remote Code Execution (RCE)** Parameters [GET based] for @trbughunters
+### Top 25 **Remote Code Execution (RCE)** Parameters [GET based]
 
-<img src="https://pbs.twimg.com/media/Ec6apFcWoAAjGQO?format=png&name=medium">
+<img src="https://raw.githubusercontent.com/OWASP/www-project-top-25-parameters/main/assets/images/rce-owasp_top25pic.png">
 
-### Top 25 **Open Redirect** Parameters for @lutfumertceylan
+### Top 25 **Open Redirect** Parameters [GET based]
 
-<img src="https://pbs.twimg.com/media/Eao7Nt7WkAEiiVD?format=jpg&name=medium">
+<img src="https://raw.githubusercontent.com/OWASP/www-project-top-25-parameters/main/assets/images/openredirect-owasp_top25pic.png">
+
+## How can I contact you?
+
+To report issues or make suggestions for the Top-25 Parameters, please use [GitHub Issues](https://github.com/OWASP/www-project-top-25-parameters/issues).
+
+For everything else, we're easy to answer your e-mail :
+
+1. Send an e-mail to [lutfu.mertceylan[at]owasp.org](mailto:lutfu.mertceylan[at]owasp.org)
+2. Send an e-mail to [info[at]lutfumertceylan.com.tr](mailto:info@lutfumertceylan.com.tr)
+
+You can @ us on Twitter [@lutfumertceylan](https://twitter.com/lutfumertceylan).
