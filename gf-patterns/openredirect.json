@@ -1,7 +1,6 @@
 {
     "flags": "-iE",
-     "patterns": [
-
+    "patterns": [
         "next=",
         "url=",
         "target=",
@@ -23,5 +22,5 @@
         "checkout_url=",
         "continue=",
         "return_path="
-]
+    ]
 }

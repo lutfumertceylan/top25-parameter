@@ -1,7 +1,6 @@
 {
     "flags": "-iE",
-     "patterns": [
-
+    "patterns": [
         "id=",
         "page=",
         "report=",
@@ -27,5 +26,5 @@
         "main=",
         "nav=",
         "region="
-]
+    ]
 }
